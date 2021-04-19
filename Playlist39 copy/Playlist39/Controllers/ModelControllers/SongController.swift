@@ -34,6 +34,7 @@ class SongController {
         
         songs.remove(at: index)
         
+        //GavinC is the coolest person I know
         saveToPersistenceStore()
     }
     
